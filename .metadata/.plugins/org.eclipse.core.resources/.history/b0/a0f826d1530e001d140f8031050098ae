@@ -1,0 +1,8 @@
+public class accessSpecifiers3 extends protectedaccessspecifiers {
+
+	public static void main(String[] args) {
+		accessSpecifiers3 obt = new accessSpecifiers3 ();   
+	       obt.display();  
+	}
+
+}

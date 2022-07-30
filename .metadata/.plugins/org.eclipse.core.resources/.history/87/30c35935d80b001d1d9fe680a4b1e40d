@@ -1,0 +1,23 @@
+
+public class Employeekpdetails {
+
+		public static void main(String[] args) {
+			EmployeeKp Kp1=new EmployeeKp();
+			EmployeeKp Kp2=new EmployeeKp();
+			EmployeeKp Kp3=new EmployeeKp();
+			Kp1.setId(100);
+			Kp1.setName("vishnu");
+			Kp1.setSalary(1000);
+			Kp2.setId(200);
+			Kp2.setName("bogesh");
+			Kp2.setSalary(2000);
+			Kp3.setId(300);
+			Kp3.setName("rajesh");
+			Kp3.setSalary(3000);
+			System.out.println(Kp1);
+			System.out.println(Kp2);
+			System.out.println(Kp3);
+			
+			
+		}
+	}
